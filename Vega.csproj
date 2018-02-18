@@ -17,6 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
+   <!-- Angus: Watcher added. 2018-02-18 -->
     <DotNetCliToolReference Include="Microsoft.DotNet.Watcher.Tools" Version="2.0.0" />
   </ItemGroup>
 
